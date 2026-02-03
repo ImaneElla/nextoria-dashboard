@@ -17,7 +17,7 @@ The project is a small **client project dashboard** built with **React (Vite)** 
 - React Router DOM
 - Axios (for API requests)
 - LocalStorage (for data persistence)
-- Plain CSS (can use Tailwind or other libraries)
+- Plain CSS 
 
 ## 🗂 Project Structure
 
