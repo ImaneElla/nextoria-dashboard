@@ -6,10 +6,9 @@ The project is a small **client project dashboard** built with **React (Vite)** 
 ## 🚀 Features
 
 - View a list of projects on the **Dashboard**
-- Click on a project to see **Project Details**
 - Create a new project (stored in **localStorage**)
 - Display **project status** (Pending, In Progress, Completed)
-- Show **progress percentage** with a progress bar
+- Show **progress percentage** 
 - Fetch initial projects from a **public API** (`https://dummyjson.com/todos?limit=5`)
 
 ## 🛠 Technologies
@@ -38,29 +37,6 @@ src/
 └─ main.jsx
 ```
 
-## 💻 Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ImaneElla/nextoria-dashboard.git
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Run the project:
-
-```bash
-npm run dev
-```
-
-Open the browser at `http://localhost:5173` (default Vite port).
-
----
 
 ## 🧠 Notes
 
@@ -78,7 +54,6 @@ Open the browser at `http://localhost:5173` (default Vite port).
 
 ## 📌 Next Steps / Improvements
 
-- Add **edit & delete project**
 - Enhance **UI design & responsiveness**
 - Implement **filters** by status
 - Add **unique IDs** for created projects
