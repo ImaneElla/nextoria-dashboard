@@ -8,6 +8,7 @@ export default function ProjectCard({ project, onEdit, onDelete }) {
         borderRadius: "5px",
       }}
     >
+      
       <h3>{project.name}</h3>
       <p>{project.description}</p>
       <p>Status: {project.status}</p>
