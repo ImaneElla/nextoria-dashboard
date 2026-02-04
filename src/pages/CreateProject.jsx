@@ -46,7 +46,6 @@ function CreateProject() {
           required
         />
 
-        {/* STATUS */}
         <select name="status" onChange={handleChange}>
           <option value="Pending">Pending</option>
           <option value="In Progress">In Progress</option>
