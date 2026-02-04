@@ -26,10 +26,8 @@ src/
 │
 ├─ components/
 │   └─ ProjectCard.jsx
-│   └─ ProjectForm.jsx
 ├─ pages/
 │   ├─ Dashboard.jsx
-│   ├─ ProjectDetails.jsx
 │   └─ CreateProject.jsx
 ├─ services/
 │   └─ api.js
